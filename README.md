@@ -1,6 +1,3 @@
-# hello-world
-CodeDay Labs Git onboarding assignment
-
 # README
 
 **This is a README file**
